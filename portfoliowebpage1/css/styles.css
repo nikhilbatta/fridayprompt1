@@ -61,5 +61,14 @@ h1{
   font-family: serif;
   font-weight: normal;
   border-bottom: 5px solid blue;
-  margin-top: 10px
+  margin-top: 10px;
+  font-size: 50px;
+}
+.job{
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+  border-top: 5px solid purple;
+  border-bottom: 5px solid purple;
+  font-size: 35px;
 }
