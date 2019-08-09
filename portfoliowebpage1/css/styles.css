@@ -10,24 +10,7 @@ img {
   margin: 25px;
   float:left;
 }
-.okokok{
-  background-color: lightblue;
-  width: 500px;
-  border: 15px solid blue;
-  padding: 50px;
-  margin: 25px;
-  float:left;
-}
-.ok{
-  background-color: lightblue;
-  width: 300px;
-  border: 15px solid blue;
-  padding: 50px;
-  margin: 25px;
-  float:left;
-}
 .design {
-  text-decoration: underline;
   color:red;
 }
 .design1{
@@ -48,14 +31,6 @@ body{
   margin: 25px;
   float:left;
 }
-.design3{
-  background-color: lightblue;
-  width: 500px;
-  border: 15px solid blue;
-  padding: 50px;
-  margin: 25px;
-  float:right;
-}
 .editing{
   float:right;
 }
@@ -68,7 +43,16 @@ div{
 .customf{
   font-style: italic;
   font-size: 60px;
+  text-align: center;
 }
 .customfont{
   font-size: 50px;
+}
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 10px solid red;
+  margin-top: 30px;
 }
