@@ -56,3 +56,16 @@ body{
   margin: 25px;
   float:right;
 }
+.editing{
+  float:right;
+}
+div{
+  background-color: lightblue;
+}
+.jumbotron{
+  background-color: transparent!important;
+}
+.customf{
+  font-size: 9000px;
+  font-style: italic;
+}
