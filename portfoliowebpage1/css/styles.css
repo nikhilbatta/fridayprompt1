@@ -1,0 +1,74 @@
+img {
+  width:40%;
+  height:40%;
+}
+.okok{
+  background-color: lightblue;
+  width: 500px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 25px;
+  float:left;
+}
+.design {
+  color:red;
+}
+.design1{
+  color:black;
+  font-size: 50px;
+}
+body{
+  background-color: lightblue;
+}
+.edit{
+  background-color: lightblue;
+}
+.design2{
+  background-color: lightblue;
+  width: 500px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 25px;
+  float:left;
+}
+.editing{
+  float:right;
+}
+div{
+  background-color: lightblue;
+}
+.jumbotron{
+  background-color: transparent!important;
+}
+.customf{
+  font-style: italic;
+  font-size: 60px;
+  text-align: center;
+}
+.customfont{
+  font-size: 50px;
+}
+h1{
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 10px solid red;
+  margin-top: 30px;
+}
+.education{
+  text-align: center;
+  font-family: serif;
+  font-weight: normal;
+  border-bottom: 5px solid blue;
+  margin-top: 10px;
+  font-size: 50px;
+}
+.job{
+  text-align: center;
+  font-family: monospace;
+  font-weight: bold;
+  border-top: 5px solid purple;
+  border-bottom: 5px solid purple;
+  font-size: 35px;
+}
