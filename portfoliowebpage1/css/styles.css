@@ -37,3 +37,22 @@ img {
 body{
   background-color: lightblue;
 }
+.edit{
+  background-color: lightblue;
+}
+.design2{
+  background-color: lightblue;
+  width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 25px;
+  float:right;
+}
+.design3{
+  background-color: lightblue;
+  width: 300px;
+  border: 15px solid blue;
+  padding: 50px;
+  margin: 25px;
+  float:left;
+}
