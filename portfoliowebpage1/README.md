@@ -1,12 +1,12 @@
-# _{My Portfolio (Friday Prompt)}_
+# _My Portfolio (Friday Prompt)_
 
-#### _{This application is my portfolio}, {August 9,2019}_
+#### _This application is my portfolio_ _August 9,2019_
 
-#### By _**{Nikhil Batta}**_
+#### By _**Nikhil Batta**_
 
 ## Description
 
-_{This application is my portfolio including an about me section, an html page for education, an html page for why I chose Epicodus }_
+_This application is my portfolio including an about me section, an html page for education, an html page for why I chose Epicodus_
 
 ## Setup/Installation Requirements
 
@@ -16,23 +16,23 @@ _{This application is my portfolio including an about me section, an html page f
 * _no other setup or installation requirements_
 
 
-_{Simple HTML and CSS webpage, no required installations or linking to a sever}_
+_Simple HTML and CSS webpage, no required installations or linking to a sever_
 
 ## Known Bugs
 
-_{There are no known bugs as of the current version date}_
+_There are no known bugs as of the current version date_
 
 ## Support and contact details
 
-_{If you run into problems with this code, feel free to contact me at nbatta08@gmail.com}_
+_If you run into problems with this code, feel free to contact me at nbatta08@gmail.com_
 
 ## Technologies Used
 
-_{The languages I used were HTML and CSS, I linked other html pages that I created in the same project using a button navigation system, which you will find at the top of every page.}_
+_The languages I used were HTML and CSS, I linked other html pages that I created in the same project using a button navigation system, which you will find at the top of every page._
 
 ### License
 
-*{MIT License
+*MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -50,6 +50,6 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.*
 
-Copyright (c) 2019 **_{Nikhil Batta}_**
+Copyright (c) 2019 **_Nikhil Batta_**
