@@ -66,6 +66,9 @@ div{
   background-color: transparent!important;
 }
 .customf{
-  font-size: 9000px;
   font-style: italic;
+  font-size: 60px;
+}
+.customfont{
+  font-size: 50px;
 }
