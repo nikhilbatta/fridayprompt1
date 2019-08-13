@@ -4,6 +4,7 @@
 
 #### By _**Nikhil Batta**_
 
+#### GH-PAGES _https://nikhilbatta.github.io/fridayprompt1/index.html_
 ## Description
 
 _This application is my portfolio including an about me section, an html page for education, an html page for why I chose Epicodus_
